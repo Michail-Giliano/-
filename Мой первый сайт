@@ -1,0 +1,81 @@
+index.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ломовка.ру</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>    
+            <h1>Новости</h1>  
+        </header>
+        <section class="News">
+            <article>
+                <a href="#">
+                    New::before<h2>Очередная сенсация от английских учёных</h2>
+                </a>
+                <div class="article eta">
+                    Опубликовал <a href="#">Гильяно Михаил</a>
+                    12 февраля 2023
+                </div>
+                <p><img src="https://ru.freepik.com/free-photo/coffee-beans-levitate-on-a-white-background_25458965.htm#&position=25&from_view=popular" alt="Зёрна кофе"></p>
+                <p>Английские учёные после трёхлетних экспериментов на инфузориях-туфельках пришли к ошеломляющим 
+                    выводам и том, что чашка свежесваренного кофе способствует быстрому пробуждению на 12 % эффективнее чем такая же чашка быстрорастворимого кофе.</p>
+            </article>
+            <article>
+                <a href="#">
+                  New::before<h2>Неудачи преследуют новаторов</h2>
+                </a>
+                <div class="article eta">
+                    Опубликовал <a href="#">Гильяно Михаил</a>
+                    12 февраля 2023
+                </div>
+                <p><img src="https://ru.freepik.com/free-photo/cute-little-dog-impersonating-a-business-person_14724904.htm#query=%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81&position=4&from_view=keyword&track=sph" alt="маленькая собачка работает на компьютере"></p>
+                <p>Неудачей закончилась попытка студента сделать новостной сайт. Будет ли сделан вывод?</p>
+            </article>
+            <article>
+                <a href="#">
+                   <h2>Подорожание цен</h2>
+                </a>
+                <div class="article eta">
+                    Опубликовал <a href="#">Гильяно Михаил</a>
+                    13 февраля 2023
+                </div>
+                <p><img src="https://unsplash.com/photos/56LQ6898kYA" alt="Женщина сидит рядом с магазином"></p>
+                <p>Резкое подорожание цен на основные продукты питания как всегда больше всего ударило по наименее защищённым слоям населения - по бедным.</p>
+            </article>
+            <article>
+                <a href="#">
+                   <h2>МЧС ПРЕДУПРЕЖДАЕТ</h2>
+                </a>
+                <div class="article eta">
+                     Опуликова <a href="#">Гильяно Михаил</a>
+                    13 февраля 2023
+                </div>
+                <p><img src="https://unsplash.com/photos/LNUVhrhncRA" alt="Растаявший лёд"></p>
+                <p>В связи с ранними оттепелями о резким таянием снега повышается вероятность скоро ледохода, в связи с чем МЧС предупреждает о запрете выхода на ледовое покрытие рек.</p>
+            </article>
+            <article>
+                <a href="#">
+                    <h2>Новости культуры</h2>
+                </a>
+                <div class="article eta">
+                    Опубликовал <a href="#">Гильяно Михаил</a>
+                    13 февраля 2023
+                </div>
+                <p><img src="https://unsplash.com/photos/z0cbszYgY3A" alt="Музыканты играют на трубах"></p>
+                <p>Грандиозным концертом на Базарной площади завершились гастроли джаз-банды из Юрипинска.</p>
+            </article>
+            </section>
+
+    <footer>
+            <div class="links">
+                <a href="#">Вакансии</a>
+                <a href="#">Контакты</a>
+                <a href="#">О нас</a>
+                <a href="#">Реклама</a>
+            </div>
+            <div class="copyright">Copyright (с) Ломовка.ру 2023</div>
+    </footer>
+    </body>
+</html>
